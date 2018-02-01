@@ -23,7 +23,7 @@ public final class Node {
         return fingerprint;
     }
 
-    String getHash() {
+    public String getHash() {
         return hash;
     }
 
@@ -35,7 +35,7 @@ public final class Node {
         return name;
     }
 
-    String getParent() {
+    public String getParent() {
         return parent;
     }
 
