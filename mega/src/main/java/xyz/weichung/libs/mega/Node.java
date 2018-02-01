@@ -25,7 +25,7 @@ public final class Node {
 
     String getHash() {
         return hash;
-    };
+    }
 
     Key getKey() {
         return key;
